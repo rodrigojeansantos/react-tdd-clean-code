@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/rodrigojeansantos/react-tdd-clean-code/issues"
   },
-  "homepage": "https://github.com/rodrigojeansantos/react-tdd-clean-code#readme"
+  "homepage": "https://github.com/rodrigojeansantos/react-tdd-clean-code#readme",
+  "devDependencies": {
+    "git-commit-msg-linter": "^2.6.0"
+  }
 }
