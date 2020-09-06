@@ -1,0 +1,2 @@
+----------------------- Lembretes -----------------------
+chore: Adiciona uma biblioteca no projeto
